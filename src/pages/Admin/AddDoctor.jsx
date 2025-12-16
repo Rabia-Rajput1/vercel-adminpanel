@@ -15,7 +15,7 @@ const AddDoctor = () => {
   const [experience, setExperience] = useState("1 Year");
   const [fee, setFee] = useState("");
   const [about, setAbout] = useState("");
-  const [speciality, setSpeciality] = useState("General physician");
+  const [speciality, setSpeciality] = useState("General Dentist");
   const [degree, setDegree] = useState("");
   const [address1, setAddress1] = useState("");
   const [address2, setAddress2] = useState("");
